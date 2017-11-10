@@ -1,4 +1,13 @@
-import numpy
-
-print(numpy.abs(-1000))
-
+l,1
+l,1
+l,1
+i,1
+i,1
+i,1
+a,1
+s,1
+d,1
+a,1
+as,1
+d,1
+f,1
